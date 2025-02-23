@@ -5,3 +5,5 @@ monetary policy.
 
 Thus, this folder will house different iterations of the New-Keynesian model, analyzing the different predictions and impulse responses
 expected from the model due to shocks, and differing parameter values.
+
+The html files here are files for interactive graphs created used the Bokeh, to view them, simply click them, download and then open the file.
