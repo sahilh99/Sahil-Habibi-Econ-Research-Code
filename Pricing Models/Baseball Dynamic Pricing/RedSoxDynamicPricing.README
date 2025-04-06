@@ -1,0 +1,14 @@
+This folder is dedicated to analyzing the advent of the usage of "dynamic pricing", which diverges from the
+old traditional usage of simply fixing ticket pricing at a face value, and not adjusting in response
+to anything with demand, time before game, etc. Currently, in concert ticketing it is popular to use
+dynamic pricing to adjust pricing based on demand for a ticket, in order to prevent rent-seekers from
+being able to profit off of buying cheap and selling on the secondary ticketing market for ballooned prices.
+
+Rent-seekers then profit, the firm loses money, fans pay higher prices, and they also do not receive the satisfaction
+of being able to pay the firm, who they admire. 
+
+In this specific scenario, we analyze Boston Red Sox ticket data from 2009-2012 to see how ticket pricing strategies have
+changed, specifically with regrads to how pricing is adjusted based on days leading up to the game. Ticketing markets
+are unique in that the good is perishable, once the event occurs the ticket is completely worthless. Thus, it is in
+the best interest of the seller to properly price in anticipation or response to these time factors, as well as in 
+combination with other factors such as demand.
