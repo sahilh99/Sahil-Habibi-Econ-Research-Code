@@ -1,0 +1,7 @@
+This folder houses materials associated to an analysis of rules pertaining to bank underwriting 
+and banker guarantees. The analysis centers around the possibility that there was an unspoken
+rule that the underwriter of a security would need to put up a guarantee to be on the hook
+for a portion of the security itself in the case that the price was too high and the bank
+was unable to flip the security for a profit. When the bank underwrites securities, it's looking
+to flip for a profit, not hold. Thus, this acts as a hedge against the risk the bank is exposed to
+by pushing it off onto the bank underwriter.
