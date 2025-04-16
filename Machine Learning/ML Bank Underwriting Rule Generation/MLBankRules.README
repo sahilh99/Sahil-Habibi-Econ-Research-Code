@@ -1,0 +1,17 @@
+This folder houses code and relevant information pertaining to a project that uses machine learning
+techniques such as decision trees to analyze the bank underwriting data to attempt to generate a rule
+that existed that was not explicit.
+
+Bank underwriting of securities is a process where banks price and purchase securities for the sole
+purpose of flipping and selling for a profit. Notably, if the price is too high, as a bank you 
+may end up stuck with these on your books. Thus, banks often used implicit rules where bankers who
+were underwriting the securities had to expose themseles to the risk instead by guaranteeing a portion
+of the security's price in the circumstance where the bank could not get it off its own books.
+
+However, as this rule was not explicit, we are attempting to sift through the simulated data which has
+a clustering of many points along integer valued banker guarantee in dollars. Thus, we are using
+decision trees to attempt to sift through the data, ignoring the noise, and creating a rule that will
+connect the dots at these high frequency points. 
+
+This offers on example of a potential use of Machine Learning in economics that could greatly inform behavior,
+rules, actions, and thus influence how we prescribe policy. 
